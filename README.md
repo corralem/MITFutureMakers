@@ -10,9 +10,7 @@
 
 ### Day 3 7.8.21
 #### Promots: 1) What is the difference between supervised and unsupervised learning?
-#### 2) Describe why the following statement is FALSE: Scikit-Learn has the
-#### power to visualize data without a Graphviz, Pandas, or other data
-#### analysis libraries.
+#### 2) Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
 
 #### 1) Supervised learning requires that the input data be organized already while unsupervised learning will learn which are the input data points and thwir coorelation. Supervised learning gets trained by you while unsupervised learing it gets trained by past experiences. 
 #### 2) Scikit-learn is created on top of all the other analysis libraries. It is false because scikit-learn requires graphviz to visualize the ML models in the scikit-learn library. 
