@@ -15,4 +15,11 @@
 #### 1) Supervised learning requires that the input data be organized already while unsupervised learning will learn which are the input data points and thwir coorelation. Supervised learning gets trained by you while unsupervised learing it gets trained by past experiences. 
 #### 2) Scikit-learn is created on top of all the other analysis libraries. It is false because scikit-learn requires graphviz to visualize the ML models in the scikit-learn library. 
 
+### Day 4 7.9.21
+#### Promots: Find a dataset
+#### https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021 //How can we make sure the world is happy using policies?
+#### https://www.kaggle.com/datasciencetool/covid19-vaccine-tweets-with-sentiment-annotation //Use this data to prevent covid-19 vaccine misinformation?
+#### https://www.kaggle.com/miroslavsabo/young-people-survey //Identifying different phobias based on gender and interests? 
+
+
 
