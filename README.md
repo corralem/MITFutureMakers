@@ -20,6 +20,7 @@
 #### https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021 //How can we make sure the world is happy using policies?
 #### https://www.kaggle.com/datasciencetool/covid19-vaccine-tweets-with-sentiment-annotation //Use this data to prevent covid-19 vaccine misinformation?
 #### https://www.kaggle.com/miroslavsabo/young-people-survey //Identifying different phobias based on gender and interests? 
+#### https://www.kaggle.com/geomack/spotifyclassification //improve spotify reccomendation system?
 
 
 
