@@ -22,5 +22,9 @@
 #### https://www.kaggle.com/miroslavsabo/young-people-survey //Identifying different phobias based on gender and interests? 
 #### https://www.kaggle.com/geomack/spotifyclassification //improve spotify reccomendation system?
 
+### Day 7 7.12.21
+#### Prompts: 1. What are “Tensors” and what are they used for in Machine Learning? 2. What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+#### 1. Tensors are multidimensional arrays that can hold data such as integers and floating point numbers, and strings. You can think of this as matrix of numbers in your math class! You can use this to store images as numerical values for ANN. 
+#### 2. I noticed that images with the color red and had simple shapes were ranked higher in the list of images. 
 
 
