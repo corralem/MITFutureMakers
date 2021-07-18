@@ -31,3 +31,8 @@
 #### Prompts: 1. How do you think Machine Learning and AI were used in the design of the game? 2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 #### 1. At the beginning of the game, ML and AI were implemented by collecting our inputs as sample data for the ML model to learn from. 
 #### 2. In 2015, Amazon's hiring process used AI. It was later discovered that the algorithm favored men over women applicants in the process. This was due to the sample data used to train the model where the majority were men applying to work at Amazon. A fix for this is to use a balances dataset with equal amounts of gender. This type of model is dangerous and can leave perfectly capable applicants with zero chance of getting the job simply because of their gender instead of being valued for their skills. This also makes the gender gap in the CS/Tech industry bigger. 
+
+### Day 11 7.16.21
+#### Promots: Succinctly list the differences between a Convolutional Neural Network and a Fully Connected Neural Network. Discuss layers and their role, and applications of each of the two types of architectures
+#### In fully connected Neural Network, all neurons are connected to each other in each layer and each layer is connected to each other. Which means the input type can be anything. In CNN, because we know the inputs will be images. 
+
